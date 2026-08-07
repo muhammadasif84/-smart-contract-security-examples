@@ -1,6 +1,4 @@
-# -smart-contract-security-examples
-Vulnerable and secure Solidity examples    for learning smart contract security.    Free AI auditor: blockhertz.com/tools/ai-auditor
-
+# Smart Contract Security Examples
 
 A collection of vulnerable and secure 
 Solidity smart contract examples for 
