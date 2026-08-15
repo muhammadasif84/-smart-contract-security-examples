@@ -42,9 +42,7 @@ Caused the $611M Poly Network hack.
 Real example: BEC Token hack — $900M (2018)
 📖 [Full Guide](https://blockhertz.com/blog/integer-overflow-solidity-2026)
 ▶️ [Video Demo](https://www.youtube.com/watch?v=vIDQ7nMppDI)
-
 📁 `vulnerabilities/integer-overflow/`
-📖 Coming soon
 
 ### 4. tx.origin Authentication
 Phishing attack via malicious contract.
