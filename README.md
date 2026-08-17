@@ -45,10 +45,9 @@ Real example: BEC Token hack — $900M (2018)
 📁 `vulnerabilities/integer-overflow/` 📖 [Full Guide](https://blockhertz.com/blog/integer-overflow-solidity-2026)
 
 ### 4. tx.origin Authentication
-Phishing attack via malicious contract.
-
-📁 `vulnerabilities/tx-origin/`
+📁 vulnerabilities/tx-origin/
 📖 Coming soon
+▶️ Coming soon
 
 ### 5. Front-Running
 MEV bots exploit transaction ordering.
